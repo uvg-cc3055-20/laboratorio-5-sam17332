@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - cambiar
+  - cambiar2
+  - cambiar3
+  - Reiniciar
   layers:
   - Default
   - TransparentFX
